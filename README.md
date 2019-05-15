@@ -1,0 +1,2 @@
+# Cube-Satellite-Network
+This page is for my Cube Satellite Project that I developed for the future of cube satellites and satellite networking. The idea of it is to replicate some of the same principles as a P2P (Peer-to-Peer) network and still have the same satellite communication protocols that we rely on today. This integration allows some sustainability, control, and  guidance for space forensics, data backup and handling, and other issues that this may solve.
